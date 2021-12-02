@@ -1,0 +1,15 @@
+{
+  "name": "iamlive-playground",
+  "version": "1.0.0",
+  "description": "learn [iann0036/iamlive](https://github.com/iann0036/iamlive) - *Generate an IAM policy from AWS calls using client-side monitoring (CSM) or embedded proxy*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1042.0"
+  }
+}
