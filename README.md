@@ -1,6 +1,6 @@
 # iamlive-playground
 
-learn [iann0036/iamlive](https://github.com/iann0036/iamlive) - *Generate an IAM policy from AWS calls using client-side monitoring (CSM) or embedded proxy*
+learn [iann0036/iamlive](https://github.com/iann0036/iamlive) - cli tool to *Generate an IAM policy from AWS calls using client-side monitoring (CSM) or embedded proxy*
 
 ## Demo
 
